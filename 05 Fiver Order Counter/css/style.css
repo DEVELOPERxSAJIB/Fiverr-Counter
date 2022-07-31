@@ -1,0 +1,12 @@
+.fiverr {
+    gap: 10px;
+}
+
+.fiverr .my-3 {
+    flex: 1;
+}
+
+.counter h3 {
+    font-weight: 900;
+    font-size: 20px;
+}
